@@ -1,2 +1,7 @@
 streamlit
-supabase==2.3.4
+supabase
+gotrue
+httpx
+postgrest
+realtime
+storage3
