@@ -1,7 +1,2 @@
+supabase==2.0.0
 streamlit
-supabase
-gotrue
-httpx
-postgrest
-realtime
-storage3
