@@ -1,2 +1,2 @@
-supabase==2.0.0
-streamlit
+streamlit==1.56.0
+supabase==2.3.4
